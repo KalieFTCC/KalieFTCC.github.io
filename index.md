@@ -7,4 +7,4 @@
 - C# Group project [Github repo](https://github.com/TaylorBrown96/Ring_Wars)
 
 
-![Lain](https://static.wikia.nocookie.net/lain/images/2/22/Lain_bear_suit-2-.jpg/revision/latest?cb=20160305110848)
+![Lain](https://static.wikia.nocookie.net/lain/images/2/22/Lain_bear_suit-2-.jpg/)
